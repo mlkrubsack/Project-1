@@ -75,7 +75,7 @@ header {
 header .profile-image {
   margin-top: 50px;
   width: 160px;
-  height: 170px;
+  height: 190px;
   border-radius: 50%;
   border: 2px solid white;
   transition: all .5s;
@@ -125,6 +125,14 @@ ul.skills {
 
 .skills li:nth-child(odd) {
   background: #76323f;
+}
+
+.photo-collage {
+  margin-top: 50px;
+  width: 420px;
+  height: 370px;
+  border: 2px solid white;
+  transition: all .5s;
 }
 
 footer {
